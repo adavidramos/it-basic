@@ -10,9 +10,12 @@ http://imaginaryterrain.com
 
 ## Flavors
 
+Each flavor corresponds to a branch in Git.
+
+**master**: A SASS-based project that uses absolute paths. This is what I use for production sites.
+
 **basic**: A very simple CSS project that uses relative paths. Includes the jQuery library. I usually use this for teaching.
 
-**advanced**: A SASS-based project that uses absolute paths. This is what I use for production sites.
 
 
 ## License
