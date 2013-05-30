@@ -2,8 +2,8 @@
 
 This is a collection of website starter kits, both ones used in production and ones used for teaching. They share a philosophy of keeping simple things simple.
 
-David Ramos
-dave@imaginaryterrain.com
+David Ramos  
+dave@imaginaryterrain.com  
 @imagineterrain
 
 
