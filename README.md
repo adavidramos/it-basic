@@ -1,19 +1,22 @@
 # it-basic-site
 
-This is a collection of website starter kits, both ones used in production 
-and ones used for teaching. They share a philosophy of keeping things simple.
+This is a collection of website starter kits, both ones used in production and ones used for teaching. They share a philosophy of keeping simple things simple.
 
 David Ramos
 dave@imaginaryterrain.com
 @imagineterrain
 
 
+## Flavors
+
+**basic**: A very simple CSS project that uses relative paths. Includes the jQuery library. I usually use this for teaching.
+
+**advanced**: A SASS-based project that uses absolute paths. This is what I use for production sites.
 
 
 ## License
 
-The kits are available under the MIT License. Some code - notably jQuery and 
-elements taken from HTML5Boilerplate - are the property of other entities.
+The kits are available under the MIT License. Some code - notably jQuery and elements taken from HTML5Boilerplate - are the property of other entities.
 
 
 ## License Terms
