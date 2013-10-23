@@ -14,7 +14,7 @@ Each flavor has its own subfolder.
 
 **production-sass**: A SASS-based project that uses absolute paths. This is what I use for production sites.
 
-**teaching-basic**: A very simple CSS project that uses relative paths. Includes the jQuery library. I usually use this for teaching.
+**ed-basic**: A very simple CSS project that uses relative paths. Includes the jQuery library. I usually use this for teaching.
 
 
 
