@@ -1,58 +1,11 @@
-/*
-	Basic starter project for Interactive Web Design I.
-	Revised 2013-02-12.
-*/
+@import 'typography.css';
+@import 'utilities.css';
+@import 'typography.css';
+@import 'layout.css';
+@import 'end.css';
 
-/* boilerplate ---------------------------------------------- */
-
-/* use a more intuitive box sizing model (http://is.gd/wNVjAo) */
-* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
-
-
-
-/* project-specific styles ---------------------------------- */
-/* (put your styles below here) */
+/* In production, do not use imports.
+   Instead, concatenante and minify files. */
 
 
 
-/* typography */
-
-body {
-	font-family: Georgia, "Times New Roman",Times,serif;
-	font-size: 16px;
-	line-height: 1.5em;
-	color: #222;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* END project-specific styles ---------------------------------- */
-
-/* 
-	H5BP clearfix. For more information, see:
-	http://nicolasgallagher.com/micro-clearfix-hack/
-*/
-.clearfix:before,
-.clearfix:after {
-    content: " "; /* 1 */
-    display: table; /* 2 */
-}
-.clearfix:after {
-    clear: both;
-}
-.clearfix {
-    *zoom: 1;
-}
