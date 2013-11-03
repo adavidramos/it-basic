@@ -5,3 +5,13 @@ body {
 	line-height: 1.5em;
 	color: #222;
 }
+
+h1 {
+	font-weight: bold;
+	font-size: 2em;
+}
+
+/* special treatment for the h1 that contains site name */
+.nameplate {
+	font-size: 1em;
+}
