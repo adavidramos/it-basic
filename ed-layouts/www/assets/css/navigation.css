@@ -1,15 +1,35 @@
 
 
-.global_nav {
+
+/* horizontal navbar */
+
+.nav_horizontal {
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
 }
 
-.global_nav > li {
+.nav_horizontal > li {
 	margin: 0;
 	margin-right: 0.25em;
 	padding: 0;
 	display: inline-block;
 }
 
+
+
+
+/* vertical navbar */
+
+.nav_vertical {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.nav_vertical > li {
+	margin: 0;
+	margin-right: 0.25em;
+	padding: 0;
+	display: block;
+}
