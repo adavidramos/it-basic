@@ -31,6 +31,21 @@
 			<true/>
 			<key>subItems</key>
 			<dict>
+				<key>ed-basic</key>
+				<dict>
+					<key>isExpanded</key>
+					<true/>
+					<key>subItems</key>
+					<dict>
+						<key>www</key>
+						<dict>
+							<key>isExpanded</key>
+							<true/>
+							<key>subItems</key>
+							<dict/>
+						</dict>
+					</dict>
+				</dict>
 				<key>ed-layouts</key>
 				<dict>
 					<key>isExpanded</key>
@@ -59,6 +74,21 @@
 									</dict>
 								</dict>
 							</dict>
+						</dict>
+					</dict>
+				</dict>
+				<key>production-sass</key>
+				<dict>
+					<key>isExpanded</key>
+					<true/>
+					<key>subItems</key>
+					<dict>
+						<key>www</key>
+						<dict>
+							<key>isExpanded</key>
+							<true/>
+							<key>subItems</key>
+							<dict/>
 						</dict>
 					</dict>
 				</dict>
