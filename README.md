@@ -16,6 +16,8 @@ Each flavor has its own subfolder.
 
 **ed-basic**: A very simple CSS project that uses relative paths. Includes the jQuery library. I usually use this for teaching.
 
+**ed-layouts**: Websites with prebuilt layouts.
+
 
 
 ## License
